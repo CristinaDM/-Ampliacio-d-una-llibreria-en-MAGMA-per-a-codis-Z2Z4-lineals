@@ -1,0 +1,1 @@
+# -Ampliacio-d-una-llibreria-en-MAGMA-per-a-codis-Z2Z4-lineals
